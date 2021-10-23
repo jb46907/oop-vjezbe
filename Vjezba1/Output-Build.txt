@@ -1,5 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: Vjezba1, Configuration: Debug Win32 ------
-1>Source.cpp
-1>Vjezba1.vcxproj -> C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba1\Debug\Vjezba1.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
