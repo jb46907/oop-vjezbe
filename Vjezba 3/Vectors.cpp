@@ -51,17 +51,17 @@ void print(vector<int>& vec) {
 //	ZADATAK 2
 void lookup(vector<int>& vec1, vector<int>& vec2, vector<int>& vecNovi) {
 	
-	int x = 0;
 	for (it i = vec1.begin(); i != vec1.end(); ++i) {
+		bool provjera = false;
 		for (it j = vec2.begin(); j != vec2.end(); ++j) {
 			if (*i == *j) {
-				x++;
+				provjera = true;
 			}
+			break;
 		}
-		if (!x) {
+		if (!provjera) {
 			vecNovi.push_back(*i);
 		}
-		x = 0;
 	}
 }
 
