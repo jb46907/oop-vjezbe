@@ -1,0 +1,4 @@
+﻿  controller.cpp
+C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Vjezba6OOP\controller.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Vjezba6OOP\controller.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+  Vjezba6OOP.vcxproj -> C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Debug\Vjezba6OOP.exe
