@@ -18,24 +18,24 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="view.cpp">
+    <ClCompile Include="HangmanModel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="model.cpp">
+    <ClCompile Include="HangmanView.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="controller.cpp">
+    <ClCompile Include="HangmanController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="model.h">
+    <ClInclude Include="HangmanModel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="view.h">
+    <ClInclude Include="HangmanView.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="controller.h">
+    <ClInclude Include="HangmanController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

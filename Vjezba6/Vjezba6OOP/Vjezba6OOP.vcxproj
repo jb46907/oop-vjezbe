@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9e7d6395-d051-4aae-88ea-1bde5571bd5a}</ProjectGuid>
+    <ProjectGuid>{de76f6e1-d909-4de5-ae7a-035829bfec07}</ProjectGuid>
     <RootNamespace>Vjezba6OOP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,15 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="controller.cpp" />
+    <ClCompile Include="HangmanController.cpp" />
+    <ClCompile Include="HangmanModel.cpp" />
+    <ClCompile Include="HangmanView.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="model.cpp" />
-    <ClCompile Include="view.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="controller.h" />
-    <ClInclude Include="model.h" />
-    <ClInclude Include="view.h" />
+    <ClInclude Include="HangmanController.h" />
+    <ClInclude Include="HangmanModel.h" />
+    <ClInclude Include="HangmanView.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

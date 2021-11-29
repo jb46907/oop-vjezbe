@@ -1,4 +1,7 @@
-﻿  controller.cpp
-C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Vjezba6OOP\controller.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Vjezba6OOP\controller.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+﻿  HangmanController.cpp
+  HangmanModel.cpp
+  HangmanView.cpp
+  main.cpp
+C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Vjezba6OOP\main.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   Vjezba6OOP.vcxproj -> C:\Users\jerry\Desktop\VisualStudio Vjezbe\Vjezba6OOP\Debug\Vjezba6OOP.exe
