@@ -1,0 +1,12 @@
+﻿  introScreen.cpp
+  mainScreen.cpp
+  playScreen.cpp
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(32,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(34,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(89,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(93,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(96,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(243,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\jerko\source\repos\TestSeminar\TestSeminar\playScreen.cpp(164): warning C4715: 'PlayScreen::playScreen': not all control paths return a value
+  TestSeminar.vcxproj -> C:\Users\jerko\source\repos\TestSeminar\x64\Debug\TestSeminar.exe
